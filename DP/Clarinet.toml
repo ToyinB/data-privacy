@@ -1,0 +1,11 @@
+[project]
+name = "DP"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.data]
+path = "contracts/data.clar"
+depends_on = []
